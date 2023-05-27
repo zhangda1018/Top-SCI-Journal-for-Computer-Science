@@ -1,8 +1,10 @@
 # Top-SCI-Journal-for-Computer-Science
-中科院SCI一区期刊 计算机科学
+
 Top SCI Journal for Computer Science
+中科院SCI一区期刊 计算机科学
 
 The table shows the top journals of computer science in Area 1 of the Chinese Academy of Sciences, and will be updated according to changes.
+
 该表格统计的为中科院SCI分区1区的计算机科学top期刊，会根据变化进行更新。
 
 If you have any questions, you can directly raise them, and we will correct them. Thanks~
